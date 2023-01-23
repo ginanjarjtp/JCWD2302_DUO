@@ -1,1 +1,1 @@
-let wakwaw = 123
+let wakwaw = '123sdsdsd'
